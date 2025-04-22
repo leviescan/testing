@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro X",
+    "price": 1299.99,
+    "description": "High-performance laptop with 16GB RAM, 512GB SSD, and dedicated graphics card."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Ultra",
+    "price": 899.99,
+    "description": "Latest smartphone with 6.7-inch OLED display, 128GB storage, and advanced camera system."
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "price": 249.99,
+    "description": "Premium noise-cancelling wireless headphones with 30-hour battery life."
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "price": 349.99,
+    "description": "Advanced smartwatch with health monitoring, GPS, and water resistance."
+  },
+  {
+    "id": 5,
+    "name": "Tablet Pro",
+    "price": 649.99,
+    "description": "Lightweight tablet with 10.9-inch Retina display, A14 chip, and Apple Pencil support."
+  },
+  {
+    "id": 6,
+    "name": "Wireless Earbuds",
+    "price": 129.99,
+    "description": "True wireless earbuds with active noise cancellation and sweat resistance."
+  },
+  {
+    "id": 7,
+    "name": "Gaming Console",
+    "price": 499.99,
+    "description": "Next-generation gaming console with 4K gaming, 1TB SSD, and ray tracing support."
+  },
+  {
+    "id": 8,
+    "name": "Digital Camera",
+    "price": 799.99,
+    "description": "Mirrorless digital camera with 24.2MP sensor, 4K video recording, and interchangeable lenses."
+  }
+]
